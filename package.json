@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@api/render-api": "file:.api/apis/render-api",
+    "@api/render-api": "^10.8.2",
     "express": "^4.19.2"
   }
 }
